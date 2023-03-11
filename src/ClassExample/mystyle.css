@@ -1,0 +1,14 @@
+.background{
+    background-color: rgb(134, 27, 211);
+}
+.navbar-brand{
+    font-family: Bernard MT Condensed;
+    font-size:30px;
+}
+.card-title{
+    height:80px;
+
+}
+.card-text{
+    height:100px;
+}
